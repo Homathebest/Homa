@@ -6,4 +6,4 @@
 * cd smsbaher
 * pip3 install -r requirements.txt
 ## Запуск
-* python3 smsbaher.py
+* python3 hleb.py
